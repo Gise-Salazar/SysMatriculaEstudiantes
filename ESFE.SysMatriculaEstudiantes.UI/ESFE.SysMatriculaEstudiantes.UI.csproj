@@ -46,11 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="RegNuevosEstud.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>RegNuevosEstud.cs</DependentUpon>
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -80,10 +81,6 @@
     <ProjectReference Include="..\ESFE.SysMatriculaEstudiantes.BL\ESFE.SysMatriculaEstudiantes.BL.csproj">
       <Project>{bc8c1d0a-1444-41b5-b9f5-1344b5dc7494}</Project>
       <Name>ESFE.SysMatriculaEstudiantes.BL</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ESFE.SysMatriculaEstudiantes.DAL\ESFE.SysMatriculaEstudiantes.DAL.csproj">
-      <Project>{065a90d9-30b4-4f9a-b34d-8513996ca1e5}</Project>
-      <Name>ESFE.SysMatriculaEstudiantes.DAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\ESFE.SysMatriculaEstudiantes.EN\ESFE.SysMatriculaEstudiantes.EN.csproj">
       <Project>{03d5185c-0f23-44a5-8390-b42cb28805e1}</Project>

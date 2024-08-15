@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ESFE.SysMatriculaEstudiantes\\",
+  "WorkspaceRootPath": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{880BB9D7-A46B-46CD-AEE2-551BB5071AD9}|ESFE.SysMatriculaEstudiantes.UI\\ESFE.SysMatriculaEstudiantes.UI.csproj|c:\\esfe.sysmatriculaestudiantes\\esfe.sysmatriculaestudiantes.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{880BB9D7-A46B-46CD-AEE2-551BB5071AD9}|ESFE.SysMatriculaEstudiantes.UI\\ESFE.SysMatriculaEstudiantes.UI.csproj|solutionrelative:esfe.sysmatriculaestudiantes.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{880BB9D7-A46B-46CD-AEE2-551BB5071AD9}|ESFE.SysMatriculaEstudiantes.UI\\ESFE.SysMatriculaEstudiantes.UI.csproj|c:\\matriculadeestudiantes\\esfe.sysmatriculaestudiantes\\esfe.sysmatriculaestudiantes.ui\\regnuevosestud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{880BB9D7-A46B-46CD-AEE2-551BB5071AD9}|ESFE.SysMatriculaEstudiantes.UI\\ESFE.SysMatriculaEstudiantes.UI.csproj|solutionrelative:esfe.sysmatriculaestudiantes.ui\\regnuevosestud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|c:\\esfe.sysmatriculaestudiantes\\esfe.sysmatriculaestudiantes.en\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|solutionrelative:esfe.sysmatriculaestudiantes.en\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\esfe.sysmatriculaestudiantes.en\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|solutionrelative:esfe.sysmatriculaestudiantes.en\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{065A90D9-30B4-4F9A-B34D-8513996CA1E5}|ESFE.SysMatriculaEstudiantes.DAL\\ESFE.SysMatriculaEstudiantes.DAL.csproj|c:\\esfe.sysmatriculaestudiantes\\esfe.sysmatriculaestudiantes.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{065A90D9-30B4-4F9A-B34D-8513996CA1E5}|ESFE.SysMatriculaEstudiantes.DAL\\ESFE.SysMatriculaEstudiantes.DAL.csproj|solutionrelative:esfe.sysmatriculaestudiantes.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\esfe.sysmatriculaestudiantes.en\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|solutionrelative:esfe.sysmatriculaestudiantes.en\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8C1D0A-1444-41B5-B9F5-1344B5DC7494}|ESFE.SysMatriculaEstudiantes.BL\\ESFE.SysMatriculaEstudiantes.BL.csproj|c:\\esfe.sysmatriculaestudiantes\\esfe.sysmatriculaestudiantes.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C1D0A-1444-41B5-B9F5-1344B5DC7494}|ESFE.SysMatriculaEstudiantes.BL\\ESFE.SysMatriculaEstudiantes.BL.csproj|solutionrelative:esfe.sysmatriculaestudiantes.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\esfe.sysmatriculaestudiantes.en\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|solutionrelative:esfe.sysmatriculaestudiantes.en\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\esfe.sysmatriculaestudiantes.en\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|solutionrelative:esfe.sysmatriculaestudiantes.en\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\esfe.sysmatriculaestudiantes.en\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|solutionrelative:esfe.sysmatriculaestudiantes.en\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\esfe.sysmatriculaestudiantes.en\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D5185C-0F23-44A5-8390-B42CB28805E1}|ESFE.SysMatriculaEstudiantes.EN\\ESFE.SysMatriculaEstudiantes.EN.csproj|solutionrelative:esfe.sysmatriculaestudiantes.en\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,53 +55,86 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.UI\\Form1.cs",
-              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.UI\\Form1.cs",
-              "ToolTip": "C:\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.UI\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.UI\\Form1.cs [Dise\u00F1o]",
+              "Title": "RegNuevosEstud.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.UI\\RegNuevosEstud.cs",
+              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.UI\\RegNuevosEstud.cs",
+              "ToolTip": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.UI\\RegNuevosEstud.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.UI\\RegNuevosEstud.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:35:17.672Z",
+              "WhenOpened": "2024-08-15T02:19:47.775Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Class1.cs",
-              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.EN\\Class1.cs",
-              "ToolTip": "C:\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Class1.cs",
-              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.EN\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Profesor.cs",
+              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.EN\\Profesor.cs",
+              "ToolTip": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Profesor.cs",
+              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.EN\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:34:34.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.DAL\\Class1.cs",
-              "ToolTip": "C:\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.DAL\\Class1.cs",
-              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.DAL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:33:57.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T02:07:01.283Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.BL\\Class1.cs",
-              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.BL\\Class1.cs",
-              "ToolTip": "C:\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.BL\\Class1.cs",
-              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.BL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.EN\\Estudiantes.cs",
+              "ToolTip": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Estudiantes.cs",
+              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.EN\\Estudiantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:33:08.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T02:06:43.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encargado.cs",
+              "DocumentMoniker": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Encargado.cs",
+              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.EN\\Encargado.cs",
+              "ToolTip": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Encargado.cs",
+              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.EN\\Encargado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:06:34.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Curso.cs",
+              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.EN\\Curso.cs",
+              "ToolTip": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Curso.cs",
+              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.EN\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:06:02.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Asignatura.cs",
+              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.EN\\Asignatura.cs",
+              "ToolTip": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Asignatura.cs",
+              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.EN\\Asignatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:05:52.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Matricula.cs",
+              "RelativeDocumentMoniker": "ESFE.SysMatriculaEstudiantes.EN\\Matricula.cs",
+              "ToolTip": "C:\\MatriculaDeEstudiantes\\ESFE.SysMatriculaEstudiantes\\ESFE.SysMatriculaEstudiantes.EN\\Matricula.cs",
+              "RelativeToolTip": "ESFE.SysMatriculaEstudiantes.EN\\Matricula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:33:50.869Z"
             }
           ]
         }

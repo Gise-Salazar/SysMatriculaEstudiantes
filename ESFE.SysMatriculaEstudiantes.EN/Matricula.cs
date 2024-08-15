@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ESFE.SysMatriculaEstudiantes.EN
 {
-    public class Class1
+  
+    public class Matricula
     {
+        public int Id { get; set; }
+        public DateTime Fecha { get; set; }
+        public string Estado { get; set; }
     }
+
 }
