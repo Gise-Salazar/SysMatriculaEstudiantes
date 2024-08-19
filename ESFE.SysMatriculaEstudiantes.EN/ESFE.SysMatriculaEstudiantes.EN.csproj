@@ -44,6 +44,7 @@
     <Compile Include="Asignatura.cs" />
     <Compile Include="Curso.cs" />
     <Compile Include="Encargado.cs" />
+    <Compile Include="Especialidad.cs" />
     <Compile Include="Estudiantes.cs" />
     <Compile Include="Matricula.cs" />
     <Compile Include="Profesor.cs" />

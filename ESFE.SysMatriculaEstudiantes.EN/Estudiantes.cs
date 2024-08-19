@@ -14,10 +14,11 @@ namespace ESFE.SysMatriculaEstudiantes.EN
         public string Apellidos { get; set; }
         public DateTime FechaNacimiento { get; set; }
         public string Direccion { get; set; }
-        public string Telefono { get; set; }
+        public int Telefono { get; set; }
         public string CorreoElectronico { get; set; }
         public int IdMatricula { get; set; }
         public int IdEncargado { get; set; }
         public int IdCurso { get; set; }
+       
     }
 }

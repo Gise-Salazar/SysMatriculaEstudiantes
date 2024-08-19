@@ -41,6 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AsignaturaBL.cs" />
+    <Compile Include="CursoBL.cs" />
+    <Compile Include="EncargadoBL.cs" />
+    <Compile Include="EspecialidadBL.cs" />
+    <Compile Include="EstudianteBL.cs" />
+    <Compile Include="MatriculaBL.cs" />
+    <Compile Include="ProfesorBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

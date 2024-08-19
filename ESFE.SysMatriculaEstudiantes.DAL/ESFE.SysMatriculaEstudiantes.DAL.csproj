@@ -41,8 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="AsignaturaDAL.cs" />
+    <Compile Include="CursoDAL.cs" />
+    <Compile Include="EncargadoDAL.cs" />
+    <Compile Include="EspecialidadDAL.cs" />
+    <Compile Include="EstudianteDAL.cs" />
+    <Compile Include="MatriculaDAL.cs" />
+    <Compile Include="ProfesorDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\BDComun.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ESFE.SysMatriculaEstudiantes.EN\ESFE.SysMatriculaEstudiantes.EN.csproj">

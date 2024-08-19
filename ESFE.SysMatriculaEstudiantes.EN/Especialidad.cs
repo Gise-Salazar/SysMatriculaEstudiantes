@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace ESFE.SysMatriculaEstudiantes.EN
 {
-
-    public class Asignatura
+    public class Especialidad
     {
-        public int Id { get; set; }
+        public int IdEspecialidad { get; set; }
         public string Nombre { get; set; }
-        public string Descripcion { get; set; }
-        public string Horario { get; set; }
     }
 }

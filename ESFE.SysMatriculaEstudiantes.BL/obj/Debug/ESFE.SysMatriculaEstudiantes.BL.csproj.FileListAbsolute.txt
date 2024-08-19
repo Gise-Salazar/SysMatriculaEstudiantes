@@ -1,0 +1,2 @@
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.BL\obj\Debug\ESFE.SysMatriculaEstudiantes.BL.csproj.AssemblyReference.cache
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.BL\obj\Debug\ESFE.SysMatriculaEstudiantes.BL.csproj.CoreCompileInputs.cache

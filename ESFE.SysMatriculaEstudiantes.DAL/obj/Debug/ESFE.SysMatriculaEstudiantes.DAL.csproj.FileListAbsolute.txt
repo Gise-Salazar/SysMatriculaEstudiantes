@@ -1,0 +1,9 @@
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.DAL\bin\Debug\ESFE.SysMatriculaEstudiantes.DAL.dll
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.DAL\bin\Debug\ESFE.SysMatriculaEstudiantes.DAL.pdb
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.DAL\bin\Debug\ESFE.SysMatriculaEstudiantes.EN.dll
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.DAL\bin\Debug\ESFE.SysMatriculaEstudiantes.EN.pdb
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.DAL\obj\Debug\ESFE.SysMatriculaEstudiantes.DAL.csproj.AssemblyReference.cache
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.DAL\obj\Debug\ESFE.SysMatriculaEstudiantes.DAL.csproj.CoreCompileInputs.cache
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.DAL\obj\Debug\ESFE.Sys.17966011.Up2Date
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.DAL\obj\Debug\ESFE.SysMatriculaEstudiantes.DAL.dll
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.DAL\obj\Debug\ESFE.SysMatriculaEstudiantes.DAL.pdb

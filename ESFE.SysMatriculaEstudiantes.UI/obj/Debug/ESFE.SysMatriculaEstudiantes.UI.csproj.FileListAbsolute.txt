@@ -1,0 +1,4 @@
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.UI\obj\Debug\ESFE.SysMatriculaEstudiantes.UI.csproj.AssemblyReference.cache
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.UI\obj\Debug\ESFE.SysMatriculaEstudiantes.UI.Properties.Resources.resources
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.UI\obj\Debug\ESFE.SysMatriculaEstudiantes.UI.csproj.GenerateResource.cache
+C:\MatriculaDeEstudiantes\ESFE.SysMatriculaEstudiantes\ESFE.SysMatriculaEstudiantes.UI\obj\Debug\ESFE.SysMatriculaEstudiantes.UI.csproj.CoreCompileInputs.cache
