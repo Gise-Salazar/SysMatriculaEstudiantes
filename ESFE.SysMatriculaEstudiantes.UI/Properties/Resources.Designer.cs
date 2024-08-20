@@ -63,9 +63,79 @@ namespace ESFE.SysMatriculaEstudiantes.UI.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1691698083293 {
+            get {
+                object obj = ResourceManager.GetObject("1691698083293", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3750020 {
+            get {
+                object obj = ResourceManager.GetObject("3750020", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _5413859 {
+            get {
+                object obj = ResourceManager.GetObject("5413859", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap blue_orange_geometric_professional_background_free_vector {
             get {
                 object obj = ResourceManager.GetObject("blue-orange-geometric-professional-background-free-vector", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Imagen_de_WhatsApp_2024_08_19_a_las_22_46_41_c36d5294 {
+            get {
+                object obj = ResourceManager.GetObject("Imagen de WhatsApp 2024-08-19 a las 22.46.41_c36d5294", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images1 {
+            get {
+                object obj = ResourceManager.GetObject("images1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_1306947532_170667a {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-1306947532-170667a", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -88,6 +158,16 @@ namespace ESFE.SysMatriculaEstudiantes.UI.Properties {
             get {
                 object obj = ResourceManager.GetObject("pngtree-d-abstract-digital-technology-background-futuristic-sci-fi-user-interface" +
                         "-concept-image_406794", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Vuelta_a_clase_para_adolescentes_2 {
+            get {
+                object obj = ResourceManager.GetObject("Vuelta-a-clase-para-adolescentes-2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
